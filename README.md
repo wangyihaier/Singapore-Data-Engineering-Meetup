@@ -1,5 +1,5 @@
 # Singapore-Data-Engineering-Meetup
-This repository will keep all the presentation materials for this meetup 
+This repository will keep all the presentation materials for [Singapore Data Engineering Meetup](https://www.meetup.com/Singapore-Data-Engineering-Meetup/)
 
 # What we are about
 Handling big amounts of data is not an easy task. Data engineering requires different skills sets from distributed systems, programming to data analysis, and so on.
